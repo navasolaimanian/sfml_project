@@ -1,0 +1,52 @@
+
+name:     score: 2
+
+name:     score: 2
+
+name:     score: 2
+
+name:     score: 2
+
+name:     score: 2
+
+name:     score: 2
+
+name:     score: 3
+
+name:     score: 3
+
+name:     score: 2
+
+name:     score: 0
+
+name:     score: 3
+
+name: n    score: 1
+
+name: nava    score: 5
+
+name:     score: -1
+
+name: nava    score: 5
+
+name: nava    score: 2
+
+name: nava    score: 5
+
+name: navid    score: 5
+
+name: nava    score: 5
+
+name: nava    score: 5
+
+name: nava    score: 12
+
+name:     score: 12
+
+name: nava    score: 12
+
+name: nava    score: 12
+
+name: nava    score: 12
+
+name: nava    score: 12

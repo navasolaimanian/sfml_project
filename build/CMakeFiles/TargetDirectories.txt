@@ -1,0 +1,3 @@
+/media/nava/pooneh/nava/p pishrafteh/build/CMakeFiles/rebuild_cache.dir
+/media/nava/pooneh/nava/p pishrafteh/build/CMakeFiles/edit_cache.dir
+/media/nava/pooneh/nava/p pishrafteh/build/CMakeFiles/app.dir

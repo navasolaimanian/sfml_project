@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/app.dir/src/main.cpp.o CMakeFiles/app.dir/src/input.cpp.o CMakeFiles/app.dir/src/print.cpp.o CMakeFiles/app.dir/src/game.cpp.o -o app  -lsfml-window -lsfml-system -lsfml-graphics 
